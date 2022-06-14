@@ -1,2 +1,1 @@
-# MusicoFy
-MusicoFy React native App
+# ReactNativeChallenge
